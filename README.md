@@ -11,6 +11,8 @@ A set of IVA cockpits for use with the [KerbalVR](https://github.com/Vivero/Kerb
 
 ### Mk1-3 Pod
 
+It's basic. It's ugly. For now it's just a tech demo for the KerbalVR mod.
+
 ![KVR_Mk1-3](https://imgur.com/kRpwMCR.png)
 
 ## Installation
