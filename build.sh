@@ -13,7 +13,7 @@ GAMEDATA_ASSETS=(
     'Spaces'
 )
 
-GAMEDATA_DIR="$RELEASE_DIR/GameData"
+GAMEDATA_DIR="$RELEASE_DIR/GameData/KVR_Pods"
 mkdir -p $GAMEDATA_DIR
 for asset in "${GAMEDATA_ASSETS[@]}"; do
     cp -pr $asset $GAMEDATA_DIR/.
